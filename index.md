@@ -1,8 +1,8 @@
-# 🤖 Github Pages experiencing lab
-
-이곳은 Github Page 블로그 작성 기능을 독학하며 기록하는 공간입니다.
-
 ---
+title: "ureo's Github Pages experiencing lab"
+description: " 🤖 이곳은 Github Page 블로그 작성 기능을 독학하며 기록하는 공간입니다."
+---
+
 ex)
 ### 📂 학습 카테고리
 1. **Theory Deep Dive**: 수식의 본질을 파고듭니다.

@@ -1,3 +1,6 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 ---
 title: "ureo's Github Pages experiencing lab"
 description: " 🤖 이곳은 Github Page 블로그 작성 기능을 독학하며 기록하는 공간입니다."
@@ -20,6 +23,3 @@ $$1 + 2 = 3$$
 ~~자기 자신으로 가는 링크~~ [page itself](https://ureo2.github.io/Practice_GitPages/)
 > "지식은 공유할 때 비로소 내 것이 된다."
 
-<script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>

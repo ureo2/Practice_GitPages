@@ -1,7 +1,6 @@
-theme: minima
 title: "ureo's Github Pages Lab"
 description: "깃허브 페이지 연습 공간"
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll/minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax

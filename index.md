@@ -1,5 +1,7 @@
 ---
-# 🤖 이곳은 Github Page 블로그 작성 기능을 독학하며 기록하는 공간입니다.
+layout: default
+title: "🤖 이곳은 Github Page 블로그 작성 기능을 독학하며 기록하는 공간입니다."
+mathjax: true
 ---
 
 ## **makedown 연습용 예시**
